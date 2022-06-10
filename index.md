@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
+I'm a student at Duke University, majoring in statistical science and sociology. I post my data science projects on this site. Let me know what you think of them! 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.

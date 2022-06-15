@@ -2,11 +2,9 @@
 layout: post
 title: "The Effect of Bridging Social Capital on Social Mobility"
 description: This is the paper I wrote as the final project for Data Science and Society, a class offered by the Duke University Sociology Department. It also incorporates work I did for Methods of Social Research, another sociology class. It demonstrates my ability to conduct exploratory data analysis and uses ordinary least squares and logistic regression. In the paper, I found evidence that relationships with high-status individuals are associated with upward mobility.
-output: 
-  md_document:
-    variant: markdown_github
-    preserve_yaml: true
 ---
+
+# The Effect of Bridging Social Capital on Social Mobility
 
 ## Introduction
 
@@ -156,7 +154,7 @@ al. (2014).
 
 <br/>
 
-<img src="/images/2020-06-14/bar-plot-1-1.png" style="display: block; margin: auto;" />
+<img src="/images/2022-06-14/bar-plot-1-1.png" style="display: block; margin: auto;" />
 
 <br/>
 
@@ -171,7 +169,7 @@ relationship between having high status ties and social mobility.
 
 <br/>
 
-<img src="/images/2020-06-14/bar-plot-2-1.png" style="display: block; margin: auto;" />
+<img src="/images/2022-06-14/bar-plot-2-1.png" style="display: block; margin: auto;" />
 
 <br/>
 

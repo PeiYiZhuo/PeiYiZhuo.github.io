@@ -97,8 +97,8 @@ light of this, I rephrase my question to the following:
 <br/>
 <center>
 
-*What effect does the length of a relationship with a high-status person
-have on social mobility?*
+What effect does the length of a relationship with a high-status person
+have on social mobility?
 
 </center>
 

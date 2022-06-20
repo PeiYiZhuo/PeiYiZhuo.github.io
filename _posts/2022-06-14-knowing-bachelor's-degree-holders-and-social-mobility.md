@@ -345,8 +345,8 @@ inaccurate results.
 I would like to thank Dr. Christopher A. Bail and Devin J. Cornell for
 their help on this project.
 
-**Editor’s Note:** This blog post has been edited since its initial
-publication date of June 14, 2022.
+**Editor’s Note:** *This blog post has been edited since its initial
+publication date of June 14, 2022.*
 
 ## Bibliography
 

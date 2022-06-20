@@ -144,7 +144,7 @@ correlate with upward mobility by Chetty et al. (2014).
 
 <br/>
 
-<img src="/images/2022-06-14/bar-plot-1-1.png" style="display: block; margin: auto;" />
+<img src="/images/2022-06-19/bar-plot-1-1.png" style="display: block; margin: auto;" />
 
 <br/>
 
@@ -157,7 +157,7 @@ the difference is around 0.136, and it is significant at the 0.05 level.
 
 <br/>
 
-<img src="/images/2022-06-14/bar-plot-2-1.png" style="display: block; margin: auto;" />
+<img src="/images/2022-06-19/bar-plot-2-1.png" style="display: block; margin: auto;" />
 
 <br/>
 
@@ -207,7 +207,7 @@ difference in variable type, discrepancies between the two models are to
 be expected.
 
 | Term                                                          | Estimate | Std. error | Statistic | p-value   |
-|:-----------------------------------------|------:|--------:|-------:|:------|
+|:--------------------------------------------------------------|---------:|-----------:|----------:|:----------|
 | Intercept                                                     |   25.780 |      3.704 |     6.960 | 0\*\*\*   |
 | Knows bachelor’s degree holder                                |    3.673 |      1.727 |     2.127 | 0.034\*   |
 | Knows most educated person for over 6 years                   |   -1.240 |      1.258 |    -0.985 | 0.325     |
@@ -261,7 +261,7 @@ six years.
 <br/>
 
 | Term                                                          | Estimate | Std. error | Statistic | p-value     |
-|:-----------------------------------------|------:|--------:|-------:|:------|
+|:--------------------------------------------------------------|---------:|-----------:|----------:|:------------|
 | Intercept                                                     |    3.340 |      0.818 |     4.083 | 0\*\*\*     |
 | Knows bachelor’s degree holder                                |    0.091 |      0.367 |     0.247 | 0.805       |
 | Knows most educated person for over 6 years                   |   -0.659 |      0.266 |    -2.474 | 0.013\*     |

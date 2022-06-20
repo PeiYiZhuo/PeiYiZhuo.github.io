@@ -91,8 +91,8 @@ this, I rephrase my question to the following:
 <br/>
 <center>
 
-*What is the association between the length of a relationship with a
-bachelor’s degree holder and social mobility?*
+What is the association between the length of a relationship with a
+bachelor’s degree holder and social mobility?
 
 </center>
 

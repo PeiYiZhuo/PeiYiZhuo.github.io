@@ -4,6 +4,8 @@ title: "Knowing Bachelor's Degree Holders and Social Mobility"
 description: Using R (ggplot2, dplyr, etc.) to analyze data from the General Social Survey, I discovered that knowing bachelor's degree holders is associated with upward mobility. This project demonstrates my ability to tell a coherent story using data. I combined data visualization, ordinary least squares regression, and logistic regression to arrive at a meaningful insight.
 ---
 
+# Knowing Bachelor's Degree Holders and Social Mobility
+
 ## Introduction
 
 Charlotte, North Carolina and Indianapolis, Indiana exhibit particularly
@@ -89,8 +91,8 @@ this, I rephrase my question to the following:
 <br/>
 <center>
 
-*What is the association between the length of a relationship with a
-bachelor’s degree holder and social mobility?*
+What is the association between the length of a relationship with a
+bachelor’s degree holder and social mobility?
 
 </center>
 

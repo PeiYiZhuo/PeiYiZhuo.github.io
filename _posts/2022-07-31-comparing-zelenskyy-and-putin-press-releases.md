@@ -11,7 +11,7 @@ output:
 
 <br>
 
-![](/images/2022-07-31/putin_zelenskyy.jpf)Russian
+![](/images/2022-07-31/putin_zelenskyy.jpg)Russian
 leader [Vladimir
 Putin](http://en.kremlin.ru/events/president/news/68454/photos) on the
 right and his Ukrainian counterpart [Volodymyr
@@ -148,7 +148,7 @@ their communication strategies: While the start of the invasion
 coincided with a transformation in Zelenskyy’s messaging, Putin’s change
 has been far less dramatic.
 
-### Sentiment Analysis
+## Sentiment Analysis
 
 Since the full-scale invasion of Ukraine, Zelenskyy’s press releases
 have increased by a greater extent in both volume and mentions of the
@@ -190,7 +190,7 @@ sentiments. Of particular note is the extent, at nearly 3 times the rate
 of the Kremlin, to which press releases from Zelenskyy became more
 likely to use angry words.
 
-### A Study of Contrasts in Wartime Messaging
+## A Study of Contrasts in Wartime Messaging
 
 Zelenskyy’s outrage in contrast to Putin’s blasé attitude is consistent
 with the circumstances in which the two leaders find themselves. Putin
@@ -214,7 +214,7 @@ Whereas Putin is cold and distant, Zelenskyy is fiery and passionate.
 
 ------------------------------------------------------------------------
 
-### Resources
+## Resources
 
 -   [NRC
     lexicon](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8640.2012.00460.x)

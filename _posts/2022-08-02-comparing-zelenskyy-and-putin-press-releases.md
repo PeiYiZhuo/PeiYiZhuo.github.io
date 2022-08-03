@@ -246,3 +246,5 @@ group were Rivca Chaver, Emma Runia, Emma Friesen, and Shine Wu.
     RMarkdown](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/add-images-to-rmarkdown-report/)
 -   [Collages in
     Photoshop](https://digital-photography-school.com/make-photoshop-collage-9-steps/)
+    
+<br>
